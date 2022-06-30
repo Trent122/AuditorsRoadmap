@@ -64,6 +64,7 @@ PDF: [Smart Contract Auditor.pdf](https://github.com/razzorsec/AuditorsRoadmap/f
   * Flash Loan => Price Oracle Manipulation
   * Front-Running => Sandwich attacks
   * Rug Pulls => Unlimited Token Allowance
+  * "Bridges" create synthetic derivatives that represent an asset from another blockchain. => NOT Ideal.
 
 * [CTFs](https://github.com/blockthreat/blocksec-ctfs)  
   * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
