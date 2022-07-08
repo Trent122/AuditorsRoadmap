@@ -99,6 +99,7 @@ PDF: [Smart Contract Auditor.pdf](https://github.com/razzorsec/AuditorsRoadmap/f
   * [Scribble](https://github.com/ConsenSys/scribble)
   * [BlockSec ETH/BSC Tx Analysis](https://versatile.blocksecteam.com/tx) 
   * [ethtx ETH Tx Analysis](https://ethtx.info/)
+  * BlockChainSentry VMS https://www.blockchainsentry.com/product/block-chain-sentry-vms/
   
 * Continue Learning
   * [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
